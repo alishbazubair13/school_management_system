@@ -1,0 +1,18 @@
+How to run the School Management System Project
+
+1. Download the zip file
+2. Extract the file and copy website folder
+3.Paste inside root directory(for xampp xampp/htdocs)
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+5. Create a database with name school
+6. Import school file(given inside the zip folder)
+7.Run the script http://localhost/School Management System PHP MySQL
+
+************************Credential for admin panel************************
+LOGIN FOR ADMIN;;
+ User Name : admin
+Password: 1234
+
+LOGIN FOR TEACHER;;
+ User Name :alishbazubair
+ Password: 1234
